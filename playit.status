@@ -1,594 +1,1164 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720039643999 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720045189847 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wht_AAAAAQAAAAEAAAAAAAAAAGzbU5P-K82NaT7I7rKICbvj1xskUOoQV_Cxk-i96DaC
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rrrtAAAAAQAAAAEAAAAAAAAAANKKEu0CDgB2VHaX4WlZl955DntfN5Aps623kdAmf1k4
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039647121 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045192939 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wht_AAAAAQAAAAEAAAAAAAAAAGzbU5P-K82NaT7I7rKICbvj1xskUOoQV_Cxk-i96DaC
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rrrtAAAAAQAAAAEAAAAAAAAAANKKEu0CDgB2VHaX4WlZl955DntfN5Aps623kdAmf1k4
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039650187 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045196019 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wht_AAAAAQAAAAEAAAAAAAAAAGzbU5P-K82NaT7I7rKICbvj1xskUOoQV_Cxk-i96DaC
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rrrtAAAAAQAAAAEAAAAAAAAAANKKEu0CDgB2VHaX4WlZl955DntfN5Aps623kdAmf1k4
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039653245 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045199094 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wht_AAAAAQAAAAEAAAAAAAAAAGzbU5P-K82NaT7I7rKICbvj1xskUOoQV_Cxk-i96DaC
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rrrtAAAAAQAAAAEAAAAAAAAAANKKEu0CDgB2VHaX4WlZl955DntfN5Aps623kdAmf1k4
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039656282 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045202188 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wht_AAAAAQAAAAEAAAAAAAAAAGzbU5P-K82NaT7I7rKICbvj1xskUOoQV_Cxk-i96DaC
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rrrtAAAAAQAAAAEAAAAAAAAAANKKEu0CDgB2VHaX4WlZl955DntfN5Aps623kdAmf1k4
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039659345 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045205242 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WldyAAAAAQAAAAEAAAAAAAAAAAC6DBNcSHjYbv76RkahzVzXHVAbt4nbVTBrlw7Db6OJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rvcbAAAAAQAAAAEAAAAAAAAAABTjGEobNWCsgm0Gif8AUoI0B-sYwFWkjI4tY-BOKqjx
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039662452 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045208360 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WldyAAAAAQAAAAEAAAAAAAAAAAC6DBNcSHjYbv76RkahzVzXHVAbt4nbVTBrlw7Db6OJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rvcbAAAAAQAAAAEAAAAAAAAAABTjGEobNWCsgm0Gif8AUoI0B-sYwFWkjI4tY-BOKqjx
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039665534 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045211434 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WldyAAAAAQAAAAEAAAAAAAAAAAC6DBNcSHjYbv76RkahzVzXHVAbt4nbVTBrlw7Db6OJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rvcbAAAAAQAAAAEAAAAAAAAAABTjGEobNWCsgm0Gif8AUoI0B-sYwFWkjI4tY-BOKqjx
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039668624 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045214503 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WldyAAAAAQAAAAEAAAAAAAAAAAC6DBNcSHjYbv76RkahzVzXHVAbt4nbVTBrlw7Db6OJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rvcbAAAAAQAAAAEAAAAAAAAAABTjGEobNWCsgm0Gif8AUoI0B-sYwFWkjI4tY-BOKqjx
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039671691 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045217582 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WldyAAAAAQAAAAEAAAAAAAAAAAC6DBNcSHjYbv76RkahzVzXHVAbt4nbVTBrlw7Db6OJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rvcbAAAAAQAAAAEAAAAAAAAAABTjGEobNWCsgm0Gif8AUoI0B-sYwFWkjI4tY-BOKqjx
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039674739 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045220636 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WpOXAAAAAQAAAAEAAAAAAAAAANW7bEp7QDCciyEq33tT4julmoGD0fIgsLpgKD5acxHa
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rzNEAAAAAQAAAAEAAAAAAAAAAA5I95UIDKoUiCNy01SyE8ScoCP5noTJXvrfHdpBEpLO
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039677860 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045223810 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WpOXAAAAAQAAAAEAAAAAAAAAANW7bEp7QDCciyEq33tT4julmoGD0fIgsLpgKD5acxHa
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rzNEAAAAAQAAAAEAAAAAAAAAAA5I95UIDKoUiCNy01SyE8ScoCP5noTJXvrfHdpBEpLO
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039680922 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045226923 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WpOXAAAAAQAAAAEAAAAAAAAAANW7bEp7QDCciyEq33tT4julmoGD0fIgsLpgKD5acxHa
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rzNEAAAAAQAAAAEAAAAAAAAAAA5I95UIDKoUiCNy01SyE8ScoCP5noTJXvrfHdpBEpLO
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039683998 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045229997 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WpOXAAAAAQAAAAEAAAAAAAAAANW7bEp7QDCciyEq33tT4julmoGD0fIgsLpgKD5acxHa
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rzNEAAAAAQAAAAEAAAAAAAAAAA5I95UIDKoUiCNy01SyE8ScoCP5noTJXvrfHdpBEpLO
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039687060 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045233052 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6WpOXAAAAAQAAAAEAAAAAAAAAANW7bEp7QDCciyEq33tT4julmoGD0fIgsLpgKD5acxHa
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6rzNEAAAAAQAAAAEAAAAAAAAAAA5I95UIDKoUiCNy01SyE8ScoCP5noTJXvrfHdpBEpLO
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039690173 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045236145 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Ws_aAAAAAQAAAAEAAAAAAAAAAMvwKq3rY8Rt5e17PJfuat8Ui16Z5rYBND-pUj9516f-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r2_RAAAAAQAAAAEAAAAAAAAAAPax4Sf3VJ0TSPaImDIzKg6wXpzuB9BcXrjLQ4XzI5hL
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039693291 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045239244 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Ws_aAAAAAQAAAAEAAAAAAAAAAMvwKq3rY8Rt5e17PJfuat8Ui16Z5rYBND-pUj9516f-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r2_RAAAAAQAAAAEAAAAAAAAAAPax4Sf3VJ0TSPaImDIzKg6wXpzuB9BcXrjLQ4XzI5hL
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039696363 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045242351 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Ws_aAAAAAQAAAAEAAAAAAAAAAMvwKq3rY8Rt5e17PJfuat8Ui16Z5rYBND-pUj9516f-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r2_RAAAAAQAAAAEAAAAAAAAAAPax4Sf3VJ0TSPaImDIzKg6wXpzuB9BcXrjLQ4XzI5hL
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039699531 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045245415 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Ws_aAAAAAQAAAAEAAAAAAAAAAMvwKq3rY8Rt5e17PJfuat8Ui16Z5rYBND-pUj9516f-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r2_RAAAAAQAAAAEAAAAAAAAAAPax4Sf3VJ0TSPaImDIzKg6wXpzuB9BcXrjLQ4XzI5hL
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039702609 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045248471 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Ws_aAAAAAQAAAAEAAAAAAAAAAMvwKq3rY8Rt5e17PJfuat8Ui16Z5rYBND-pUj9516f-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r2_RAAAAAQAAAAEAAAAAAAAAAPax4Sf3VJ0TSPaImDIzKg6wXpzuB9BcXrjLQ4XzI5hL
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039705691 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045251525 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wwx0AAAAAQAAAAEAAAAAAAAAAHEhb3urKRpsj_Ldetq8VAxTrouRv_BqLReGxAmcUb7l
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r6vlAAAAAQAAAAEAAAAAAAAAAL9l6RUYDIb16yocNb1kRqGyAxn8t021gWM59IqVFn47
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039708783 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045254638 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wwx0AAAAAQAAAAEAAAAAAAAAAHEhb3urKRpsj_Ldetq8VAxTrouRv_BqLReGxAmcUb7l
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r6vlAAAAAQAAAAEAAAAAAAAAAL9l6RUYDIb16yocNb1kRqGyAxn8t021gWM59IqVFn47
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039711895 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045257692 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wwx0AAAAAQAAAAEAAAAAAAAAAHEhb3urKRpsj_Ldetq8VAxTrouRv_BqLReGxAmcUb7l
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r6vlAAAAAQAAAAEAAAAAAAAAAL9l6RUYDIb16yocNb1kRqGyAxn8t021gWM59IqVFn47
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039714957 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045260744 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wwx0AAAAAQAAAAEAAAAAAAAAAHEhb3urKRpsj_Ldetq8VAxTrouRv_BqLReGxAmcUb7l
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r6vlAAAAAQAAAAEAAAAAAAAAAL9l6RUYDIb16yocNb1kRqGyAxn8t021gWM59IqVFn47
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039718004 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045263820 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Wwx0AAAAAQAAAAEAAAAAAAAAAHEhb3urKRpsj_Ldetq8VAxTrouRv_BqLReGxAmcUb7l
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r6vlAAAAAQAAAAEAAAAAAAAAAL9l6RUYDIb16yocNb1kRqGyAxn8t021gWM59IqVFn47
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039721090 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045266882 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W0ifAAAAAQAAAAEAAAAAAAAAALO4qZBWn46alGxqe-P9rK9AdTWX7a9ZawTwpbqWueoq
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r-fgAAAAAQAAAAEAAAAAAAAAAGsVTCMbhBKz_bc5ujcK85awzoTWtzOXhdA_tjwUrA5v
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039724209 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045269958 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W0ifAAAAAQAAAAEAAAAAAAAAALO4qZBWn46alGxqe-P9rK9AdTWX7a9ZawTwpbqWueoq
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r-fgAAAAAQAAAAEAAAAAAAAAAGsVTCMbhBKz_bc5ujcK85awzoTWtzOXhdA_tjwUrA5v
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039727297 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045273021 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W0ifAAAAAQAAAAEAAAAAAAAAALO4qZBWn46alGxqe-P9rK9AdTWX7a9ZawTwpbqWueoq
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r-fgAAAAAQAAAAEAAAAAAAAAAGsVTCMbhBKz_bc5ujcK85awzoTWtzOXhdA_tjwUrA5v
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039730379 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045276075 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W0ifAAAAAQAAAAEAAAAAAAAAALO4qZBWn46alGxqe-P9rK9AdTWX7a9ZawTwpbqWueoq
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r-fgAAAAAQAAAAEAAAAAAAAAAGsVTCMbhBKz_bc5ujcK85awzoTWtzOXhdA_tjwUrA5v
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039733439 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045279147 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W0ifAAAAAQAAAAEAAAAAAAAAALO4qZBWn46alGxqe-P9rK9AdTWX7a9ZawTwpbqWueoq
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6r-fgAAAAAQAAAAEAAAAAAAAAAGsVTCMbhBKz_bc5ujcK85awzoTWtzOXhdA_tjwUrA5v
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039736492 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045282212 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W4TCAAAAAQAAAAEAAAAAAAAAAMRNcXNd4I1rRomwlrDFogeHCTwg-rl0tqaLt7f5NiHt
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sCPEAAAAAQAAAAEAAAAAAAAAAHXkHzEwTE-VsFC2oJac_xs2uW3WGpGbAPmuzI_WTlnr
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039739574 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045285311 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W4TCAAAAAQAAAAEAAAAAAAAAAMRNcXNd4I1rRomwlrDFogeHCTwg-rl0tqaLt7f5NiHt
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sCPEAAAAAQAAAAEAAAAAAAAAAHXkHzEwTE-VsFC2oJac_xs2uW3WGpGbAPmuzI_WTlnr
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039742867 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045288380 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W4TCAAAAAQAAAAEAAAAAAAAAAMRNcXNd4I1rRomwlrDFogeHCTwg-rl0tqaLt7f5NiHt
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sCPEAAAAAQAAAAEAAAAAAAAAAHXkHzEwTE-VsFC2oJac_xs2uW3WGpGbAPmuzI_WTlnr
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039745956 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045291454 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W4TCAAAAAQAAAAEAAAAAAAAAAMRNcXNd4I1rRomwlrDFogeHCTwg-rl0tqaLt7f5NiHt
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sCPEAAAAAQAAAAEAAAAAAAAAAHXkHzEwTE-VsFC2oJac_xs2uW3WGpGbAPmuzI_WTlnr
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039749039 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045294498 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W4TCAAAAAQAAAAEAAAAAAAAAAMRNcXNd4I1rRomwlrDFogeHCTwg-rl0tqaLt7f5NiHt
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sCPEAAAAAQAAAAEAAAAAAAAAAHXkHzEwTE-VsFC2oJac_xs2uW3WGpGbAPmuzI_WTlnr
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039752083 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045297547 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W8GoAAAAAQAAAAEAAAAAAAAAABylcA8LEBTAmY0UrWmQUPKXVVygfTMsEZnUxoKY1VIi
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sF-oAAAAAQAAAAEAAAAAAAAAAHJ7woW3SXJy4R1l_SCFegSJhJIrw4ItKrXc2hq4tmft
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039755162 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045300637 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W8GoAAAAAQAAAAEAAAAAAAAAABylcA8LEBTAmY0UrWmQUPKXVVygfTMsEZnUxoKY1VIi
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sF-oAAAAAQAAAAEAAAAAAAAAAHJ7woW3SXJy4R1l_SCFegSJhJIrw4ItKrXc2hq4tmft
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039758209 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045303699 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W8GoAAAAAQAAAAEAAAAAAAAAABylcA8LEBTAmY0UrWmQUPKXVVygfTMsEZnUxoKY1VIi
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sF-oAAAAAQAAAAEAAAAAAAAAAHJ7woW3SXJy4R1l_SCFegSJhJIrw4ItKrXc2hq4tmft
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039761251 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045306749 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W8GoAAAAAQAAAAEAAAAAAAAAABylcA8LEBTAmY0UrWmQUPKXVVygfTMsEZnUxoKY1VIi
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sF-oAAAAAQAAAAEAAAAAAAAAAHJ7woW3SXJy4R1l_SCFegSJhJIrw4ItKrXc2hq4tmft
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039764335 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045309821 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W8GoAAAAAQAAAAEAAAAAAAAAABylcA8LEBTAmY0UrWmQUPKXVVygfTMsEZnUxoKY1VIi
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sF-oAAAAAQAAAAEAAAAAAAAAAHJ7woW3SXJy4R1l_SCFegSJhJIrw4ItKrXc2hq4tmft
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039767391 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045312895 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W_2NAAAAAQAAAAEAAAAAAAAAAGR6uwUnIQOT3OWfhvJ98a4Q4VPgKnA01EF-10PPatVD
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sJuWAAAAAQAAAAEAAAAAAAAAAGUdxKQDm0JQT3NH-E7z2rT6JEAPJKQeYziatue288jP
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039770496 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045315984 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W_2NAAAAAQAAAAEAAAAAAAAAAGR6uwUnIQOT3OWfhvJ98a4Q4VPgKnA01EF-10PPatVD
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sJuWAAAAAQAAAAEAAAAAAAAAAGUdxKQDm0JQT3NH-E7z2rT6JEAPJKQeYziatue288jP
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039773549 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045319052 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W_2NAAAAAQAAAAEAAAAAAAAAAGR6uwUnIQOT3OWfhvJ98a4Q4VPgKnA01EF-10PPatVD
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sJuWAAAAAQAAAAEAAAAAAAAAAGUdxKQDm0JQT3NH-E7z2rT6JEAPJKQeYziatue288jP
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039776601 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045322125 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W_2NAAAAAQAAAAEAAAAAAAAAAGR6uwUnIQOT3OWfhvJ98a4Q4VPgKnA01EF-10PPatVD
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sJuWAAAAAQAAAAEAAAAAAAAAAGUdxKQDm0JQT3NH-E7z2rT6JEAPJKQeYziatue288jP
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039779659 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045325190 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6W_2NAAAAAQAAAAEAAAAAAAAAAGR6uwUnIQOT3OWfhvJ98a4Q4VPgKnA01EF-10PPatVD
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sJuWAAAAAQAAAAEAAAAAAAAAAGUdxKQDm0JQT3NH-E7z2rT6JEAPJKQeYziatue288jP
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039782722 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045328258 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XDlaAAAAAQAAAAEAAAAAAAAAANH1U583hRiglPw7AXh5kkEb1o3-xJb6oTGmHdk69OFS
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sNeYAAAAAQAAAAEAAAAAAAAAAE8uWeZtqS3-7zhE4DYpkrr-EjBgLfaZmVM_TdMgQAOo
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039785808 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045331388 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XDlaAAAAAQAAAAEAAAAAAAAAANH1U583hRiglPw7AXh5kkEb1o3-xJb6oTGmHdk69OFS
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sNeYAAAAAQAAAAEAAAAAAAAAAE8uWeZtqS3-7zhE4DYpkrr-EjBgLfaZmVM_TdMgQAOo
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039788965 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045334540 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XDlaAAAAAQAAAAEAAAAAAAAAANH1U583hRiglPw7AXh5kkEb1o3-xJb6oTGmHdk69OFS
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sNeYAAAAAQAAAAEAAAAAAAAAAE8uWeZtqS3-7zhE4DYpkrr-EjBgLfaZmVM_TdMgQAOo
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039792058 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045337592 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XDlaAAAAAQAAAAEAAAAAAAAAANH1U583hRiglPw7AXh5kkEb1o3-xJb6oTGmHdk69OFS
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sNeYAAAAAQAAAAEAAAAAAAAAAE8uWeZtqS3-7zhE4DYpkrr-EjBgLfaZmVM_TdMgQAOo
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039795111 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045340657 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XDlaAAAAAQAAAAEAAAAAAAAAANH1U583hRiglPw7AXh5kkEb1o3-xJb6oTGmHdk69OFS
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sNeYAAAAAQAAAAEAAAAAAAAAAE8uWeZtqS3-7zhE4DYpkrr-EjBgLfaZmVM_TdMgQAOo
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039798180 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045343716 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XHW6AAAAAQAAAAEAAAAAAAAAAF6Ykl7PJUaWVsET3vYvBONJ8rnjxB1cZJqc-7Mo7TUb
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sRP7AAAAAQAAAAEAAAAAAAAAAKUBRVWSw22l0Fbohymf-sp7MPqPS_Lw0-aweyoshaUk
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039801308 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045346802 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XHW6AAAAAQAAAAEAAAAAAAAAAF6Ykl7PJUaWVsET3vYvBONJ8rnjxB1cZJqc-7Mo7TUb
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sRP7AAAAAQAAAAEAAAAAAAAAAKUBRVWSw22l0Fbohymf-sp7MPqPS_Lw0-aweyoshaUk
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039804425 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045349849 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XHW6AAAAAQAAAAEAAAAAAAAAAF6Ykl7PJUaWVsET3vYvBONJ8rnjxB1cZJqc-7Mo7TUb
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sRP7AAAAAQAAAAEAAAAAAAAAAKUBRVWSw22l0Fbohymf-sp7MPqPS_Lw0-aweyoshaUk
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039807481 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045352885 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XHW6AAAAAQAAAAEAAAAAAAAAAF6Ykl7PJUaWVsET3vYvBONJ8rnjxB1cZJqc-7Mo7TUb
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sRP7AAAAAQAAAAEAAAAAAAAAAKUBRVWSw22l0Fbohymf-sp7MPqPS_Lw0-aweyoshaUk
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039810527 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045355979 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XHW6AAAAAQAAAAEAAAAAAAAAAF6Ykl7PJUaWVsET3vYvBONJ8rnjxB1cZJqc-7Mo7TUb
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sRP7AAAAAQAAAAEAAAAAAAAAAKUBRVWSw22l0Fbohymf-sp7MPqPS_Lw0-aweyoshaUk
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039813607 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045359045 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XLIRAAAAAQAAAAEAAAAAAAAAAMcPNNpko4W6qiTiWuA2-rFYnOwlwy04-hzmP7yjESQr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sU_qAAAAAQAAAAEAAAAAAAAAAFJfGvgo1aE5NpVUZKGZ36koD8bcE7iOXEZj1pQwGrlR
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039816734 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045362129 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XLIRAAAAAQAAAAEAAAAAAAAAAMcPNNpko4W6qiTiWuA2-rFYnOwlwy04-hzmP7yjESQr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sU_qAAAAAQAAAAEAAAAAAAAAAFJfGvgo1aE5NpVUZKGZ36koD8bcE7iOXEZj1pQwGrlR
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039819802 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045365194 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XLIRAAAAAQAAAAEAAAAAAAAAAMcPNNpko4W6qiTiWuA2-rFYnOwlwy04-hzmP7yjESQr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sU_qAAAAAQAAAAEAAAAAAAAAAFJfGvgo1aE5NpVUZKGZ36koD8bcE7iOXEZj1pQwGrlR
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039822863 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045368249 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XLIRAAAAAQAAAAEAAAAAAAAAAMcPNNpko4W6qiTiWuA2-rFYnOwlwy04-hzmP7yjESQr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sU_qAAAAAQAAAAEAAAAAAAAAAFJfGvgo1aE5NpVUZKGZ36koD8bcE7iOXEZj1pQwGrlR
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039825909 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045371287 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XLIRAAAAAQAAAAEAAAAAAAAAAMcPNNpko4W6qiTiWuA2-rFYnOwlwy04-hzmP7yjESQr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sU_qAAAAAQAAAAEAAAAAAAAAAFJfGvgo1aE5NpVUZKGZ36koD8bcE7iOXEZj1pQwGrlR
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039828949 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045374339 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XO3sAAAAAQAAAAEAAAAAAAAAAEreBxAO2vZvn7-dbcIAg6pAEbt_0hsz4bZvX-q7fIlz
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sYuXAAAAAQAAAAEAAAAAAAAAAIxqz2fBhwkPFPOwW2sRFn6dSxGAQV6OFu2Y3T_1Lkm0
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039832041 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045377425 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XO3sAAAAAQAAAAEAAAAAAAAAAEreBxAO2vZvn7-dbcIAg6pAEbt_0hsz4bZvX-q7fIlz
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sYuXAAAAAQAAAAEAAAAAAAAAAIxqz2fBhwkPFPOwW2sRFn6dSxGAQV6OFu2Y3T_1Lkm0
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039835131 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045380479 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XO3sAAAAAQAAAAEAAAAAAAAAAEreBxAO2vZvn7-dbcIAg6pAEbt_0hsz4bZvX-q7fIlz
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sYuXAAAAAQAAAAEAAAAAAAAAAIxqz2fBhwkPFPOwW2sRFn6dSxGAQV6OFu2Y3T_1Lkm0
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039838202 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045383529 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XO3sAAAAAQAAAAEAAAAAAAAAAEreBxAO2vZvn7-dbcIAg6pAEbt_0hsz4bZvX-q7fIlz
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sYuXAAAAAQAAAAEAAAAAAAAAAIxqz2fBhwkPFPOwW2sRFn6dSxGAQV6OFu2Y3T_1Lkm0
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039841250 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045386602 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XO3sAAAAAQAAAAEAAAAAAAAAAEreBxAO2vZvn7-dbcIAg6pAEbt_0hsz4bZvX-q7fIlz
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sYuXAAAAAQAAAAEAAAAAAAAAAIxqz2fBhwkPFPOwW2sRFn6dSxGAQV6OFu2Y3T_1Lkm0
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039844290 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045389653 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XSnZAAAAAQAAAAEAAAAAAAAAAMQsd3ZFgIo6pDEvq7-oeFluo48COLQdtogLFWHOb79K
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6scd0AAAAAQAAAAEAAAAAAAAAAMUjJ9tfn7JENfK_bf-BaO5fHizuSQhC7GnFhh7kJyrz
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039847364 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045392743 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XSnZAAAAAQAAAAEAAAAAAAAAAMQsd3ZFgIo6pDEvq7-oeFluo48COLQdtogLFWHOb79K
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6scd0AAAAAQAAAAEAAAAAAAAAAMUjJ9tfn7JENfK_bf-BaO5fHizuSQhC7GnFhh7kJyrz
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039850404 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045395815 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XSnZAAAAAQAAAAEAAAAAAAAAAMQsd3ZFgIo6pDEvq7-oeFluo48COLQdtogLFWHOb79K
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6scd0AAAAAQAAAAEAAAAAAAAAAMUjJ9tfn7JENfK_bf-BaO5fHizuSQhC7GnFhh7kJyrz
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039853449 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045398877 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XSnZAAAAAQAAAAEAAAAAAAAAAMQsd3ZFgIo6pDEvq7-oeFluo48COLQdtogLFWHOb79K
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6scd0AAAAAQAAAAEAAAAAAAAAAMUjJ9tfn7JENfK_bf-BaO5fHizuSQhC7GnFhh7kJyrz
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039856516 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045401950 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XSnZAAAAAQAAAAEAAAAAAAAAAMQsd3ZFgIo6pDEvq7-oeFluo48COLQdtogLFWHOb79K
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6scd0AAAAAQAAAAEAAAAAAAAAAMUjJ9tfn7JENfK_bf-BaO5fHizuSQhC7GnFhh7kJyrz
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039859616 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045405100 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XWW_AAAAAQAAAAEAAAAAAAAAAOjNHYygaqhrBJ_1JW7N1GVt_EDO-6yAF5INb1QJWoWm
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sgPbAAAAAQAAAAEAAAAAAAAAABDcCi_AgHLuOaXEvfETJu5SXpXR9NnNsNZzb8XbFzz7
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039862799 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045408189 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XWW_AAAAAQAAAAEAAAAAAAAAAOjNHYygaqhrBJ_1JW7N1GVt_EDO-6yAF5INb1QJWoWm
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sgPbAAAAAQAAAAEAAAAAAAAAABDcCi_AgHLuOaXEvfETJu5SXpXR9NnNsNZzb8XbFzz7
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039865897 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045411233 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XWW_AAAAAQAAAAEAAAAAAAAAAOjNHYygaqhrBJ_1JW7N1GVt_EDO-6yAF5INb1QJWoWm
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sgPbAAAAAQAAAAEAAAAAAAAAABDcCi_AgHLuOaXEvfETJu5SXpXR9NnNsNZzb8XbFzz7
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039868963 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045414269 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XWW_AAAAAQAAAAEAAAAAAAAAAOjNHYygaqhrBJ_1JW7N1GVt_EDO-6yAF5INb1QJWoWm
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sgPbAAAAAQAAAAEAAAAAAAAAABDcCi_AgHLuOaXEvfETJu5SXpXR9NnNsNZzb8XbFzz7
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039872013 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045417304 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XWW_AAAAAQAAAAEAAAAAAAAAAOjNHYygaqhrBJ_1JW7N1GVt_EDO-6yAF5INb1QJWoWm
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sgPbAAAAAQAAAAEAAAAAAAAAABDcCi_AgHLuOaXEvfETJu5SXpXR9NnNsNZzb8XbFzz7
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039875066 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045420369 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XaIXAAAAAQAAAAEAAAAAAAAAACJGoXhZ6S0t55ZfY9n1Rpr4t-_-StUHjVPNFkhs7Q0Z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sj9oAAAAAQAAAAEAAAAAAAAAAExR_dO2MF9U2_hzqltvSav71hHfNtyoOSZhN0mXjCRA
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039878170 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045423482 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XaIXAAAAAQAAAAEAAAAAAAAAACJGoXhZ6S0t55ZfY9n1Rpr4t-_-StUHjVPNFkhs7Q0Z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sj9oAAAAAQAAAAEAAAAAAAAAAExR_dO2MF9U2_hzqltvSav71hHfNtyoOSZhN0mXjCRA
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039881230 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045426557 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XaIXAAAAAQAAAAEAAAAAAAAAACJGoXhZ6S0t55ZfY9n1Rpr4t-_-StUHjVPNFkhs7Q0Z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sj9oAAAAAQAAAAEAAAAAAAAAAExR_dO2MF9U2_hzqltvSav71hHfNtyoOSZhN0mXjCRA
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039884375 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045429613 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XaIXAAAAAQAAAAEAAAAAAAAAACJGoXhZ6S0t55ZfY9n1Rpr4t-_-StUHjVPNFkhs7Q0Z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sj9oAAAAAQAAAAEAAAAAAAAAAExR_dO2MF9U2_hzqltvSav71hHfNtyoOSZhN0mXjCRA
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039887439 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045432678 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XaIXAAAAAQAAAAEAAAAAAAAAACJGoXhZ6S0t55ZfY9n1Rpr4t-_-StUHjVPNFkhs7Q0Z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sj9oAAAAAQAAAAEAAAAAAAAAAExR_dO2MF9U2_hzqltvSav71hHfNtyoOSZhN0mXjCRA
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039890488 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045435732 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xd5TAAAAAQAAAAEAAAAAAAAAAB8YP28F7amSO-jNS6_jxzw1V4E-IuzTsSQoMvvGYVvK
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sntlAAAAAQAAAAEAAAAAAAAAAO6QB2qlFOYJpumzS2M_SmFwBX3BW1jNL7KLOT-Fc6nN
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039893595 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045438804 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xd5TAAAAAQAAAAEAAAAAAAAAAB8YP28F7amSO-jNS6_jxzw1V4E-IuzTsSQoMvvGYVvK
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sntlAAAAAQAAAAEAAAAAAAAAAO6QB2qlFOYJpumzS2M_SmFwBX3BW1jNL7KLOT-Fc6nN
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039896633 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045441929 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xd5TAAAAAQAAAAEAAAAAAAAAAB8YP28F7amSO-jNS6_jxzw1V4E-IuzTsSQoMvvGYVvK
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sntlAAAAAQAAAAEAAAAAAAAAAO6QB2qlFOYJpumzS2M_SmFwBX3BW1jNL7KLOT-Fc6nN
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039899732 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045444986 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xd5TAAAAAQAAAAEAAAAAAAAAAB8YP28F7amSO-jNS6_jxzw1V4E-IuzTsSQoMvvGYVvK
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sntlAAAAAQAAAAEAAAAAAAAAAO6QB2qlFOYJpumzS2M_SmFwBX3BW1jNL7KLOT-Fc6nN
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039902813 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045448036 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xd5TAAAAAQAAAAEAAAAAAAAAAB8YP28F7amSO-jNS6_jxzw1V4E-IuzTsSQoMvvGYVvK
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sntlAAAAAQAAAAEAAAAAAAAAAO6QB2qlFOYJpumzS2M_SmFwBX3BW1jNL7KLOT-Fc6nN
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039905883 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045451139 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xhp_AAAAAQAAAAEAAAAAAAAAABPvvtbf6pBBCTGWVO81VanDAVpTB1F2-VDCN8cIDKd0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6srejAAAAAQAAAAEAAAAAAAAAALtLs35U_gYRq8ckvyHbMXxfQJ8ZdaxCnSe54tVEUdSg
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039909020 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045454270 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xhp_AAAAAQAAAAEAAAAAAAAAABPvvtbf6pBBCTGWVO81VanDAVpTB1F2-VDCN8cIDKd0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6srejAAAAAQAAAAEAAAAAAAAAALtLs35U_gYRq8ckvyHbMXxfQJ8ZdaxCnSe54tVEUdSg
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039912072 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045457346 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xhp_AAAAAQAAAAEAAAAAAAAAABPvvtbf6pBBCTGWVO81VanDAVpTB1F2-VDCN8cIDKd0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6srejAAAAAQAAAAEAAAAAAAAAALtLs35U_gYRq8ckvyHbMXxfQJ8ZdaxCnSe54tVEUdSg
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039915154 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045460395 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xhp_AAAAAQAAAAEAAAAAAAAAABPvvtbf6pBBCTGWVO81VanDAVpTB1F2-VDCN8cIDKd0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6srejAAAAAQAAAAEAAAAAAAAAALtLs35U_gYRq8ckvyHbMXxfQJ8ZdaxCnSe54tVEUdSg
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039918223 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045463438 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6Xhp_AAAAAQAAAAEAAAAAAAAAABPvvtbf6pBBCTGWVO81VanDAVpTB1F2-VDCN8cIDKd0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6srejAAAAAQAAAAEAAAAAAAAAALtLs35U_gYRq8ckvyHbMXxfQJ8ZdaxCnSe54tVEUdSg
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039921320 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045466481 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XlbjAAAAAQAAAAEAAAAAAAAAAC1D4ya54_6mq3JIWlmW3E2X7L1gUoa3K3MQZ2VAw1ZA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6svOFAAAAAQAAAAEAAAAAAAAAAMltqKtjiUdtqHvR5Nnf3rFJ737i1vI-kTNL2mvgpHFn
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039924486 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045469578 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XlbjAAAAAQAAAAEAAAAAAAAAAC1D4ya54_6mq3JIWlmW3E2X7L1gUoa3K3MQZ2VAw1ZA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6svOFAAAAAQAAAAEAAAAAAAAAAMltqKtjiUdtqHvR5Nnf3rFJ737i1vI-kTNL2mvgpHFn
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039927566 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045472662 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XlbjAAAAAQAAAAEAAAAAAAAAAC1D4ya54_6mq3JIWlmW3E2X7L1gUoa3K3MQZ2VAw1ZA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6svOFAAAAAQAAAAEAAAAAAAAAAMltqKtjiUdtqHvR5Nnf3rFJ737i1vI-kTNL2mvgpHFn
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039930782 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045475750 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XlbjAAAAAQAAAAEAAAAAAAAAAC1D4ya54_6mq3JIWlmW3E2X7L1gUoa3K3MQZ2VAw1ZA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6svOFAAAAAQAAAAEAAAAAAAAAAMltqKtjiUdtqHvR5Nnf3rFJ737i1vI-kTNL2mvgpHFn
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039933846 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045478805 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XlbjAAAAAQAAAAEAAAAAAAAAAC1D4ya54_6mq3JIWlmW3E2X7L1gUoa3K3MQZ2VAw1ZA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6svOFAAAAAQAAAAEAAAAAAAAAAMltqKtjiUdtqHvR5Nnf3rFJ737i1vI-kTNL2mvgpHFn
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039936902 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045481858 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XpOiAAAAAQAAAAEAAAAAAAAAALLTxagnbiKKkqyogXa1gXBOY8Mb1pvv9y2Vlu9Hqjko
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sy-fAAAAAQAAAAEAAAAAAAAAANS9iYaAT8VO4ZLRP5wVQiHid2Grkq6wfpryedp4hayb
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039940072 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045484935 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XpOiAAAAAQAAAAEAAAAAAAAAALLTxagnbiKKkqyogXa1gXBOY8Mb1pvv9y2Vlu9Hqjko
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sy-fAAAAAQAAAAEAAAAAAAAAANS9iYaAT8VO4ZLRP5wVQiHid2Grkq6wfpryedp4hayb
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039943115 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045487973 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XpOiAAAAAQAAAAEAAAAAAAAAALLTxagnbiKKkqyogXa1gXBOY8Mb1pvv9y2Vlu9Hqjko
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sy-fAAAAAQAAAAEAAAAAAAAAANS9iYaAT8VO4ZLRP5wVQiHid2Grkq6wfpryedp4hayb
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720039946161 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720045491037 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6XpOiAAAAAQAAAAEAAAAAAAAAALLTxagnbiKKkqyogXa1gXBOY8Mb1pvv9y2Vlu9Hqjko
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sy-fAAAAAQAAAAEAAAAAAAAAANS9iYaAT8VO4ZLRP5wVQiHid2Grkq6wfpryedp4hayb
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045494126 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6sy-fAAAAAQAAAAEAAAAAAAAAANS9iYaAT8VO4ZLRP5wVQiHid2Grkq6wfpryedp4hayb
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045497178 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s2uCAAAAAQAAAAEAAAAAAAAAAOcb_0ZkVQH5aWMb_uz1HBJZ3nIcSw75KT7oOTfu-i8v
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045500311 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s2uCAAAAAQAAAAEAAAAAAAAAAOcb_0ZkVQH5aWMb_uz1HBJZ3nIcSw75KT7oOTfu-i8v
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045503378 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s2uCAAAAAQAAAAEAAAAAAAAAAOcb_0ZkVQH5aWMb_uz1HBJZ3nIcSw75KT7oOTfu-i8v
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045506423 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s2uCAAAAAQAAAAEAAAAAAAAAAOcb_0ZkVQH5aWMb_uz1HBJZ3nIcSw75KT7oOTfu-i8v
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045509468 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s2uCAAAAAQAAAAEAAAAAAAAAAOcb_0ZkVQH5aWMb_uz1HBJZ3nIcSw75KT7oOTfu-i8v
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045512508 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s6dRAAAAAQAAAAEAAAAAAAAAABSPjuT-KSBn9yugj_2JtRVQ5v32I9gCBqiJsUhbyWHo
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045515572 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s6dRAAAAAQAAAAEAAAAAAAAAABSPjuT-KSBn9yugj_2JtRVQ5v32I9gCBqiJsUhbyWHo
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045518676 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s6dRAAAAAQAAAAEAAAAAAAAAABSPjuT-KSBn9yugj_2JtRVQ5v32I9gCBqiJsUhbyWHo
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045521727 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s6dRAAAAAQAAAAEAAAAAAAAAABSPjuT-KSBn9yugj_2JtRVQ5v32I9gCBqiJsUhbyWHo
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045524799 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s6dRAAAAAQAAAAEAAAAAAAAAABSPjuT-KSBn9yugj_2JtRVQ5v32I9gCBqiJsUhbyWHo
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045527856 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s-NGAAAAAQAAAAEAAAAAAAAAAOKN9X2DAZ7jcd0KjIDeoDG2QyXXHgNTckLc6RIc18e9
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045530921 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s-NGAAAAAQAAAAEAAAAAAAAAAOKN9X2DAZ7jcd0KjIDeoDG2QyXXHgNTckLc6RIc18e9
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045533957 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s-NGAAAAAQAAAAEAAAAAAAAAAOKN9X2DAZ7jcd0KjIDeoDG2QyXXHgNTckLc6RIc18e9
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045537033 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s-NGAAAAAQAAAAEAAAAAAAAAAOKN9X2DAZ7jcd0KjIDeoDG2QyXXHgNTckLc6RIc18e9
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045540085 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6s-NGAAAAAQAAAAEAAAAAAAAAAOKN9X2DAZ7jcd0KjIDeoDG2QyXXHgNTckLc6RIc18e9
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045543145 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tB7_AAAAAQAAAAEAAAAAAAAAAO2HxvqaPNMXD4W-R7J5K6je5lVRy8OCD1YdEnaUJAX7
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045546246 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tB7_AAAAAQAAAAEAAAAAAAAAAO2HxvqaPNMXD4W-R7J5K6je5lVRy8OCD1YdEnaUJAX7
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045549283 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tB7_AAAAAQAAAAEAAAAAAAAAAO2HxvqaPNMXD4W-R7J5K6je5lVRy8OCD1YdEnaUJAX7
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045552337 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tB7_AAAAAQAAAAEAAAAAAAAAAO2HxvqaPNMXD4W-R7J5K6je5lVRy8OCD1YdEnaUJAX7
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045555403 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tB7_AAAAAQAAAAEAAAAAAAAAAO2HxvqaPNMXD4W-R7J5K6je5lVRy8OCD1YdEnaUJAX7
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045558464 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tFrkAAAAAQAAAAEAAAAAAAAAALg_IuvtMMMzwFdVMcwxF_j-9HopZ3rGRb80tBeWhta4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045561596 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tFrkAAAAAQAAAAEAAAAAAAAAALg_IuvtMMMzwFdVMcwxF_j-9HopZ3rGRb80tBeWhta4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045564685 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tFrkAAAAAQAAAAEAAAAAAAAAALg_IuvtMMMzwFdVMcwxF_j-9HopZ3rGRb80tBeWhta4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045567730 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tFrkAAAAAQAAAAEAAAAAAAAAALg_IuvtMMMzwFdVMcwxF_j-9HopZ3rGRb80tBeWhta4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045570793 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tFrkAAAAAQAAAAEAAAAAAAAAALg_IuvtMMMzwFdVMcwxF_j-9HopZ3rGRb80tBeWhta4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045573869 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tJcJAAAAAQAAAAEAAAAAAAAAANrcJ0fQqFLTTGyBfrZ8mm5y-JrYNDDJFdYqU45_FrZz
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045576985 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tJcJAAAAAQAAAAEAAAAAAAAAANrcJ0fQqFLTTGyBfrZ8mm5y-JrYNDDJFdYqU45_FrZz
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045580071 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tJcJAAAAAQAAAAEAAAAAAAAAANrcJ0fQqFLTTGyBfrZ8mm5y-JrYNDDJFdYqU45_FrZz
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045583156 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tJcJAAAAAQAAAAEAAAAAAAAAANrcJ0fQqFLTTGyBfrZ8mm5y-JrYNDDJFdYqU45_FrZz
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045586260 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tJcJAAAAAQAAAAEAAAAAAAAAANrcJ0fQqFLTTGyBfrZ8mm5y-JrYNDDJFdYqU45_FrZz
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045589362 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tNOdAAAAAQAAAAEAAAAAAAAAABK7P9XdBWmOBlnVJR0uoY0ItpELk_5-tFeo4IkgnzOy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045592499 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tNOdAAAAAQAAAAEAAAAAAAAAABK7P9XdBWmOBlnVJR0uoY0ItpELk_5-tFeo4IkgnzOy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045595553 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tNOdAAAAAQAAAAEAAAAAAAAAABK7P9XdBWmOBlnVJR0uoY0ItpELk_5-tFeo4IkgnzOy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045598605 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tNOdAAAAAQAAAAEAAAAAAAAAABK7P9XdBWmOBlnVJR0uoY0ItpELk_5-tFeo4IkgnzOy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045601655 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tNOdAAAAAQAAAAEAAAAAAAAAABK7P9XdBWmOBlnVJR0uoY0ItpELk_5-tFeo4IkgnzOy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045604695 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tQ9vAAAAAQAAAAEAAAAAAAAAAIfbvk1hf6X7cNUZutlbsCo92FZ1r4WmYRk4CLLQ5KQd
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045607809 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tQ9vAAAAAQAAAAEAAAAAAAAAAIfbvk1hf6X7cNUZutlbsCo92FZ1r4WmYRk4CLLQ5KQd
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045610900 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tQ9vAAAAAQAAAAEAAAAAAAAAAIfbvk1hf6X7cNUZutlbsCo92FZ1r4WmYRk4CLLQ5KQd
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045613963 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tQ9vAAAAAQAAAAEAAAAAAAAAAIfbvk1hf6X7cNUZutlbsCo92FZ1r4WmYRk4CLLQ5KQd
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045617018 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tQ9vAAAAAQAAAAEAAAAAAAAAAIfbvk1hf6X7cNUZutlbsCo92FZ1r4WmYRk4CLLQ5KQd
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045620056 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tUtvAAAAAQAAAAEAAAAAAAAAAI09l4W3jRgdnJJGM1ukYVbu5fUwDgYnIi3lASe4elg4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045623171 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tUtvAAAAAQAAAAEAAAAAAAAAAI09l4W3jRgdnJJGM1ukYVbu5fUwDgYnIi3lASe4elg4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045626241 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tUtvAAAAAQAAAAEAAAAAAAAAAI09l4W3jRgdnJJGM1ukYVbu5fUwDgYnIi3lASe4elg4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045629283 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tUtvAAAAAQAAAAEAAAAAAAAAAI09l4W3jRgdnJJGM1ukYVbu5fUwDgYnIi3lASe4elg4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045632397 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tUtvAAAAAQAAAAEAAAAAAAAAAI09l4W3jRgdnJJGM1ukYVbu5fUwDgYnIi3lASe4elg4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045635484 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tYfAAAAAAQAAAAEAAAAAAAAAAHCWoPjMsSadqTIAzsm74J3o8te8Xz5wE_QxskhR4p3I
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045638610 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tYfAAAAAAQAAAAEAAAAAAAAAAHCWoPjMsSadqTIAzsm74J3o8te8Xz5wE_QxskhR4p3I
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045641659 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tYfAAAAAAQAAAAEAAAAAAAAAAHCWoPjMsSadqTIAzsm74J3o8te8Xz5wE_QxskhR4p3I
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045644738 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tYfAAAAAAQAAAAEAAAAAAAAAAHCWoPjMsSadqTIAzsm74J3o8te8Xz5wE_QxskhR4p3I
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045647803 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tYfAAAAAAQAAAAEAAAAAAAAAAHCWoPjMsSadqTIAzsm74J3o8te8Xz5wE_QxskhR4p3I
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045650894 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tcP0AAAAAQAAAAEAAAAAAAAAABXkkbm4kynmE6vlPXvNy_WONtr1ct5tzZ49vcVE9bNA
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045654015 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tcP0AAAAAQAAAAEAAAAAAAAAABXkkbm4kynmE6vlPXvNy_WONtr1ct5tzZ49vcVE9bNA
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045657108 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tcP0AAAAAQAAAAEAAAAAAAAAABXkkbm4kynmE6vlPXvNy_WONtr1ct5tzZ49vcVE9bNA
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045660148 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tcP0AAAAAQAAAAEAAAAAAAAAABXkkbm4kynmE6vlPXvNy_WONtr1ct5tzZ49vcVE9bNA
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045663197 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tcP0AAAAAQAAAAEAAAAAAAAAABXkkbm4kynmE6vlPXvNy_WONtr1ct5tzZ49vcVE9bNA
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045666242 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tf_YAAAAAQAAAAEAAAAAAAAAANm9UAyZ1xka67znzA3yuLIbXMgyPKaEBx7qFuChCCEO
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045669324 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tf_YAAAAAQAAAAEAAAAAAAAAANm9UAyZ1xka67znzA3yuLIbXMgyPKaEBx7qFuChCCEO
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045672368 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tf_YAAAAAQAAAAEAAAAAAAAAANm9UAyZ1xka67znzA3yuLIbXMgyPKaEBx7qFuChCCEO
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045675422 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tf_YAAAAAQAAAAEAAAAAAAAAANm9UAyZ1xka67znzA3yuLIbXMgyPKaEBx7qFuChCCEO
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045678482 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tf_YAAAAAQAAAAEAAAAAAAAAANm9UAyZ1xka67znzA3yuLIbXMgyPKaEBx7qFuChCCEO
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045681537 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tjudAAAAAQAAAAEAAAAAAAAAAAwz1EVZtuYdIgMqa_YIg9sw4HF9PKHm0PWc5iB4Dohj
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045684622 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tjudAAAAAQAAAAEAAAAAAAAAAAwz1EVZtuYdIgMqa_YIg9sw4HF9PKHm0PWc5iB4Dohj
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045687678 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tjudAAAAAQAAAAEAAAAAAAAAAAwz1EVZtuYdIgMqa_YIg9sw4HF9PKHm0PWc5iB4Dohj
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045690735 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tjudAAAAAQAAAAEAAAAAAAAAAAwz1EVZtuYdIgMqa_YIg9sw4HF9PKHm0PWc5iB4Dohj
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045693826 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tjudAAAAAQAAAAEAAAAAAAAAAAwz1EVZtuYdIgMqa_YIg9sw4HF9PKHm0PWc5iB4Dohj
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045696928 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tne-AAAAAQAAAAEAAAAAAAAAAMD3jGZXu4hDcWdpHNqHNZcnN6lr-f-hAjXA68ewahDy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045700029 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tne-AAAAAQAAAAEAAAAAAAAAAMD3jGZXu4hDcWdpHNqHNZcnN6lr-f-hAjXA68ewahDy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045703086 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tne-AAAAAQAAAAEAAAAAAAAAAMD3jGZXu4hDcWdpHNqHNZcnN6lr-f-hAjXA68ewahDy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045706166 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tne-AAAAAQAAAAEAAAAAAAAAAMD3jGZXu4hDcWdpHNqHNZcnN6lr-f-hAjXA68ewahDy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045709206 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tne-AAAAAQAAAAEAAAAAAAAAAMD3jGZXu4hDcWdpHNqHNZcnN6lr-f-hAjXA68ewahDy
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045712251 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6trOnAAAAAQAAAAEAAAAAAAAAAHGfvA58mLLR0kGbolUkRJC0EFpP0CX2E5uNdloA8Ud1
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045715397 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6trOnAAAAAQAAAAEAAAAAAAAAAHGfvA58mLLR0kGbolUkRJC0EFpP0CX2E5uNdloA8Ud1
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045718458 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6trOnAAAAAQAAAAEAAAAAAAAAAHGfvA58mLLR0kGbolUkRJC0EFpP0CX2E5uNdloA8Ud1
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045721527 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6trOnAAAAAQAAAAEAAAAAAAAAAHGfvA58mLLR0kGbolUkRJC0EFpP0CX2E5uNdloA8Ud1
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045724584 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6trOnAAAAAQAAAAEAAAAAAAAAAHGfvA58mLLR0kGbolUkRJC0EFpP0CX2E5uNdloA8Ud1
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045727714 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tvAEAAAAAQAAAAEAAAAAAAAAAC0zjTs2xYlNam_aL9qnr_a8abo7kCdqH6-9Q9yrmF-4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045730800 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tvAEAAAAAQAAAAEAAAAAAAAAAC0zjTs2xYlNam_aL9qnr_a8abo7kCdqH6-9Q9yrmF-4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045733836 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tvAEAAAAAQAAAAEAAAAAAAAAAC0zjTs2xYlNam_aL9qnr_a8abo7kCdqH6-9Q9yrmF-4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045736874 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tvAEAAAAAQAAAAEAAAAAAAAAAC0zjTs2xYlNam_aL9qnr_a8abo7kCdqH6-9Q9yrmF-4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045739918 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tvAEAAAAAQAAAAEAAAAAAAAAAC0zjTs2xYlNam_aL9qnr_a8abo7kCdqH6-9Q9yrmF-4
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045742962 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tyuOAAAAAQAAAAEAAAAAAAAAAHwirxSURDySQNv-WVdxWYJBoEPLqnNRJojO95uJf_1g
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045746091 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tyuOAAAAAQAAAAEAAAAAAAAAAHwirxSURDySQNv-WVdxWYJBoEPLqnNRJojO95uJf_1g
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045749179 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tyuOAAAAAQAAAAEAAAAAAAAAAHwirxSURDySQNv-WVdxWYJBoEPLqnNRJojO95uJf_1g
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045752256 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tyuOAAAAAQAAAAEAAAAAAAAAAHwirxSURDySQNv-WVdxWYJBoEPLqnNRJojO95uJf_1g
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045755315 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6tyuOAAAAAQAAAAEAAAAAAAAAAHwirxSURDySQNv-WVdxWYJBoEPLqnNRJojO95uJf_1g
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045758403 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6t2fiAAAAAQAAAAEAAAAAAAAAAHlSfG7yNJpV2V7jr7AeFgwojW5Ana5TQLAT20jK652q
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045761541 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6t2fiAAAAAQAAAAEAAAAAAAAAAHlSfG7yNJpV2V7jr7AeFgwojW5Ana5TQLAT20jK652q
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045764602 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6t2fiAAAAAQAAAAEAAAAAAAAAAHlSfG7yNJpV2V7jr7AeFgwojW5Ana5TQLAT20jK652q
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045767673 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6t2fiAAAAAQAAAAEAAAAAAAAAAHlSfG7yNJpV2V7jr7AeFgwojW5Ana5TQLAT20jK652q
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045770735 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6t2fiAAAAAQAAAAEAAAAAAAAAAHlSfG7yNJpV2V7jr7AeFgwojW5Ana5TQLAT20jK652q
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045773783 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6t6P-AAAAAQAAAAEAAAAAAAAAAOlUTi0uO1igYoG0n5qfoClJvg8Lb2URAvEAfgZa1xuq
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045776881 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6t6P-AAAAAQAAAAEAAAAAAAAAAOlUTi0uO1igYoG0n5qfoClJvg8Lb2URAvEAfgZa1xuq
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045779931 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6t6P-AAAAAQAAAAEAAAAAAAAAAOlUTi0uO1igYoG0n5qfoClJvg8Lb2URAvEAfgZa1xuq
+
+TUNNELS
+found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720045782971 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAnC-gAAAZB6t6P-AAAAAQAAAAEAAAAAAAAAAOlUTi0uO1igYoG0n5qfoClJvg8Lb2URAvEAfgZa1xuq
 
 TUNNELS
 found-measurements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
